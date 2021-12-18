@@ -1,0 +1,3 @@
+grep to short out from list
+ls | grep filename
+
